@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AxelMizerovskiy
 - 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me @ smizerovskiy@gmail.com
 
